@@ -1,0 +1,9 @@
+:root {
+    --white: #fff;
+    --black: black;
+    --gray: #969592;
+    --hoverColor: #29bb0c;
+    --darkRed: #0a90a1;
+    --lightRed: #cf1d8b;
+    --lightDark: rgb(0 0 0 / 19%);
+}
